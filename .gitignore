@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+.env
+*.log
+.DS_Store
+.vscode/
+coverage/
+obj/
+bin/
+NexusCommerce.API.csproj
+appsettings.json
+Models/
+Controllers/
+Data/
+Program.cs
